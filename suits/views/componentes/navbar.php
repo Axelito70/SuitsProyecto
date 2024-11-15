@@ -12,6 +12,9 @@
         <li class="nav-item">
           <a class="btn btn-nav" href="<?=url('inventario');?>"><i class="fa-solid fa-list-check me-2"></i>Inventario</a>
         </li>
+        <li class="nav-item">
+          <a class="btn btn-nav" href="<?=url('edit_usuario');?>"><i class="fa-solid fa-list-check me-2"></i>Cambia Usuario</a>
+        </li>
       </ul>
       <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto d-block">
         <?php if(!isset($_SESSION['usuario'])): ?>

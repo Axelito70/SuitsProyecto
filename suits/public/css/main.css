@@ -4,6 +4,65 @@ body {
     color: #fff;
 }
 
+.card {
+    background: linear-gradient(135deg, rgba(255, 0, 0, 0.7), rgba(255, 0, 0, 0.3)); 
+    border: 2px solid rgb(255, 0, 0); 
+    border-radius: 10px; 
+    color: #ffffff; 
+}
+
+
+.card-header {
+    background-color: rgb(255, 0, 0); 
+    border-bottom: 2px solid rgba(255, 0, 0, 0.8); 
+    color: white; 
+    font-weight: bold; 
+    text-align: center; 
+}
+
+
+.modal-content {
+    background: linear-gradient(135deg, rgba(255, 0, 0, 0.7), rgba(255, 0, 0, 0.3)); 
+    border: 2px solid rgb(255, 0, 0); 
+    border-radius: 10px; 
+    color: #000; 
+}
+
+
+.btn-primary {
+    background-color: rgba(255, 0, 0, 0.7); 
+    border: 2px solid rgb(255, 0, 0); 
+    color: white; 
+}
+
+.btn-primary:hover {
+    background-color: rgb(255, 0, 0); 
+    color: white; 
+}
+
+.btn-success {
+    background-color: rgba(218, 9, 9, 0.5); 
+    border: 2px solid rgb(189, 7, 7); 
+    color: white; 
+}
+
+.btn-success:hover {
+    background-color: green; 
+    color: white; 
+}
+
+
+.form-control {
+    background: rgba(255, 255, 255, 0.8); 
+    border: 2px solid rgb(255, 0, 0); 
+    color: black; 
+}
+
+.form-control:focus {
+    box-shadow: 0 0 5px rgb(255, 0, 0); 
+}
+
+
 .tienda-container {
     background: rgba(255, 0, 0, 0.5); 
     border-radius: 15px;

@@ -21,6 +21,10 @@
             require_once './views/inventario.php';
             break;
         }
+        case "edit_usuario":{
+            require_once './views/datos_usuarios.php';
+            break;
+        }
         default:{
             require_once './views/error404.php';
             break;

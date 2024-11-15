@@ -26,6 +26,7 @@
     <?php require_once './app/config/router.php';?>  
     <script src="./public/js/cerrar_sesion.js"></script>
     <script src="./public/js/main.js"></script>
+    <script src="./public/js/actualizardatos.js"></script>
 </body>
 </html>
 
