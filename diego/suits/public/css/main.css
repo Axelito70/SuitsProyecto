@@ -1,0 +1,114 @@
+body {
+    background: url("../img/rojo.jpg") fixed no-repeat center center; 
+    background-size: cover;
+    color: #fff;
+}
+
+.tienda-container {
+    background: rgba(255, 0, 0, 0.5); 
+    border-radius: 15px;
+    border: 3px solid rgb(255, 0, 0); 
+    color: #fff; 
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tienda-container h2 {
+    color: black; 
+}
+
+.bg-card {
+    background-color: transparent; 
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.error-404-container {
+    background: rgba(255, 0, 0, 0.5); 
+    border-radius: 15px;
+    border: 3px solid rgb(255, 0, 0); 
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.error-404-container h1 {
+    color: rgb(255, 0, 0); 
+}
+
+.error-404-container p {
+    color: white;
+}
+
+.error-404-container .btn {
+    color: #fff;
+    border: 1px solid rgb(255, 0, 0);
+    background-color: transparent;
+}
+
+.error-404-container .btn:hover {
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+}
+
+.bg-card {
+    background-color: transparent; 
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.fondo {
+    background: linear-gradient(135deg, #8B0000, #FF6347); 
+    border-radius: 15px;
+    border: 2px #FF0000 solid; 
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.fondo h3 {
+    color: rgb(255, 0, 0); 
+}
+
+.imagen-circulo {
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.3); 
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); 
+}
+
+.navbar-nav .nav-link,
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #FFD700;
+}
+
+.table {
+    color: black; 
+    border: 1px solid black; 
+}
+
+.table thead th {
+    background-color: #f1f1f1; 
+    color: black; 
+    border-bottom: 2px solid #f1f1f1; 
+}
+
+.table tbody td {
+    border: 1px solid #f1f1f1; 
+}
+
+.bg-card {
+    background-color: black;; 
+    border-radius: 8px;
+    padding: 15px;
+}
